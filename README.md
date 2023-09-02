@@ -1,6 +1,7 @@
-# Machine Learning and Deep Learning Repository
+# Machine Learning and Deep Learning Repository 
 
 Welcome to my Machine Learning and Deep Learning repository! In this repository, I regularly share my code, projects, and experiments related to ML and DL. You can find a variety of topics and projects related to data science and artificial intelligence here.
+I'll be storing all the models here which have been run by me till date
 
 ## Table of Contents
 
